@@ -1,16 +1,12 @@
-## Hi there 👋
+<h2>Hi there 👋</h2>
+<h2>ABOUT ME</h2>
+<h3>A BME student from SEU,Nanking,China</h3>
+<p>Interested in Computer Science <del>Counter Strike</del>, Machine Learning, and all things sf-like :p</p>
+<p>Contact with me via 1944427071@qq.com</p>
 
-<!--
-**quarkes1/quarkes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Find something fun</h3>
+<ul>
+  <li><a href="https://github.com/wysbmm-cy/feiman">通过对话式Feymann方法学习！</a></li>
+  <li><a href="https://github.com/quarkes1/BMEcontestSEU">上传脑电数据自动分析睡眠质量</a></li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
