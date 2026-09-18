@@ -2,7 +2,7 @@
 <h2>ABOUT ME</h2>
 <h3>A BME student from Nanking,China</h3>
 
-### GitHub Analytics
+![:name](https://count.getloli.com/@:quarkes)
 ![quarkes1](https://github-readme-stats-eight-theta.vercel.app/api?username=quarkes1&show_icons=true&theme=nightowl&count_private=true)
 
 ![quarkes1](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quarkes1&layout=compact&langs_count=8&theme=nightowl)
