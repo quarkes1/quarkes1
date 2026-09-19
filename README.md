@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 <h2>ABOUT ME</h2>
-<h3>A BME student from Nanking,China</h3>
+<h3>BME student</h3>
 
 
 ![quarkes1](https://github-readme-stats-eight-theta.vercel.app/api?username=quarkes1&show_icons=true&theme=nightowl&count_private=true)
